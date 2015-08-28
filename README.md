@@ -12,3 +12,6 @@ This is change made by me.
 
 --
 Amol Sale
+
+Amol Sale
+Veritas
